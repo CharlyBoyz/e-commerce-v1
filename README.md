@@ -1,23 +1,42 @@
-![Logo](https://vuejs.org/images/logo.png)
+<div align='center'>
 
-# Application E-Commerce V1
+<img src=https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png alt="logo" width= height= />
 
-- [x] API Composition
-- [x] Cart Count
-- [x] Gestion des quantités
-- [x] Paiement avec Stripe
-- [x] Enregistrement des commandes
-- [x] Notifications Toasts
+<h1>E-commerce V1</h1>
+<p>Application E-commerce Laravel and VueJs</p>
 
-## Installation And Go
 
-    Duplicate the .env.example file and name it .env. 
-    Adjust the settings in the .env file and add your Stripe secret and public keys.
 
-    npm install
-    composer install
+</div>
 
-    php artisan migrate --seed
+# :notebook_with_decorative_cover: Table of Contents
 
-    npm run dev or npm run watch as u wish.
-    
+- [About the Project](#star2-about-the-project)
+
+
+## :star2: About the Project
+
+## :toolbox: Getting Started
+
+### :gear: Installation
+
+Install via Composer
+```bash
+composer install
+```
+Generate Application Key
+```bash
+php artisan key:generate
+```
+Migrate Database/Models
+```bash
+php artisan migrate --seed
+```
+Run seeder
+```bash
+php artisan db:seed
+```
+Install Dependencies
+```bash
+npm install
+```
