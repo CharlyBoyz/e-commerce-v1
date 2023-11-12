@@ -4,7 +4,7 @@
 <p>Application E-commerce Laravel and VueJs</p>
 </div>
 
-# :electron: Application E-Commerce V1
+# :money_with_wings: Application E-Commerce V1 :money_with_wings:
 
 - [x] API Composition
 - [x] Cart Count
