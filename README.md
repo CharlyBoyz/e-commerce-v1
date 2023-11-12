@@ -1,24 +1,25 @@
 <div align='center'>
-
-<img src=https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png alt="logo" width= height= />
+![Logo](https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png)
 
 <h1>E-commerce V1</h1>
 <p>Application E-commerce Laravel and VueJs</p>
-
-
-
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+# Application E-Commerce V1
 
-- [About the Project](#star2-about-the-project)
-
-
-## :star2: About the Project
+- [x] API Composition
+- [x] Cart Count
+- [x] Gestion des quantités
+- [x] Paiement avec Stripe
+- [x] Enregistrement des commandes
+- [x] Notifications Toasts
 
 ## :toolbox: Getting Started
 
 ### :gear: Installation
+
+Duplicate the .env.example file and name it .env. 
+Adjust the settings in the .env file and add your Stripe secret and public keys.
 
 Install via Composer
 ```bash
@@ -39,4 +40,10 @@ php artisan db:seed
 Install Dependencies
 ```bash
 npm install
+
+npm run dev
+```
+ou
+```bash
+npm run watch
 ```
