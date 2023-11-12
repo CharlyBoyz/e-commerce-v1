@@ -1,4 +1,4 @@
-### Application E-Commerce Laravel 9 et VueJS 3
+# Application E-Commerce Laravel 9 et VueJS 3
 
 - [x] API Composition
 - [x] Cart Count
@@ -7,7 +7,7 @@
 - [x] Enregistrement des commandes
 - [x] Notifications Toasts
 
-### Installation And Go
+## Installation And Go
 
     Duplicate the .env.example file and name it .env. 
     Adjust the settings in the .env file and add your Stripe secret and public keys.
