@@ -4,7 +4,7 @@
 <p>Application E-commerce Laravel and VueJs</p>
 </div>
 
-# Application E-Commerce V1
+# :electron: Application E-Commerce V1
 
 - [x] API Composition
 - [x] Cart Count
@@ -20,8 +20,8 @@
 Duplicate the .env.example file and name it .env. 
 Adjust the settings in the .env file and add your Stripe secret and public keys.
 ```bash
-STRIPE_TEST_PUBLIC_KEY=your_stipe_public_key
-STRIPE_TEST_SECRET_KEY=your_stipe_secret_key
+STRIPE_TEST_PUBLIC_KEY=your_stripe_public_key
+STRIPE_TEST_SECRET_KEY=your_stripe_secret_key
 ```
 Install via Composer
 ```bash
@@ -49,3 +49,5 @@ or
 ```bash
 npm run watch
 ```
+
+:sparkler: And Enjoy it :sparkler:
