@@ -1,4 +1,6 @@
-# Application E-Commerce Laravel 9 et VueJS 3
+![Logo](https://vuejs.org/images/logo.png)
+
+# Application E-Commerce V1
 
 - [x] API Composition
 - [x] Cart Count
